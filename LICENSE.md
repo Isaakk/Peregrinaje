@@ -10,17 +10,20 @@ Permission is granted to view, download and study the contents of this repositor
 
 Without prior written permission from the copyright holder, you may NOT:
 
-- Copy substantial portions of this project into another project.
-- Modify and redistribute this project.
+- Copy, reproduce or incorporate any part of this project into another project.
+- Modify, adapt or redistribute this project.
 - Publish derivative works based on this project.
 - Create forks intended for public use or distribution.
 - Upload modified versions to Steam Workshop, GitHub, GitLab, Nexus Mods or any other platform.
-- Remove, alter or bypass progression systems and release such modifications.
 - Repackage, mirror or reupload this project.
 - Use the name "Peregrinaje" for unauthorized derivative projects.
 - Commercially exploit any part of this project.
 
 The official Steam Workshop release published by the author is the only authorized public release of Peregrinaje unless explicitly stated otherwise.
+
+Contributions
+
+By submitting code, documentation, assets, suggestions or other contributions to this repository, contributors agree that their contributions may be incorporated into Peregrinaje and distributed under the terms of this license without additional approval or compensation.
 
 All rights not expressly granted herein are reserved.
 
