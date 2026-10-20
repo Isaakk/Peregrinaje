@@ -19,7 +19,7 @@ After more than five years of continuous development, this repository serves as 
   https://vermintide2.fandom.com/wiki/Peregrinaje
 
 - Discord:
-  [Discord Invite Here]
+  https://discord.gg/UY4MzFgxpp
 
 ## Main Features
 
