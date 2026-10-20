@@ -50,7 +50,7 @@ This repository exists to preserve the development history of the project, allow
 
 The publication of the source code should not be interpreted as permission to redistribute, modify or publish alternative versions of Peregrinaje.
 
-Please refer to the LICENSE file for detailed terms.
+Please refer to the `LICENSE` file for detailed terms.
 
 ## Contributions
 
